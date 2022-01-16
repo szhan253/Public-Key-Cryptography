@@ -1,6 +1,7 @@
-# Assignment 5: Public Key Cryptography
+# Public Key Cryptography
 
-This is a program that uses rsa algorithm to encrypt and decrypt the input file. There are public keys and privite keys we need to use to do the encryption and decryption. There are three main functions in the program. One is called Keygen, which is used for generate the public and private key pair. The second one is called Encrypt, which is for encrypt files by using the public key. The last one is called Decrypt, which is used for decrypting by using the corresponding private key.
+This is an assignment for CSE13S in Fall 2021. Please do not use the code for any class assignments. 
+The program uses rsa algorithm to encrypt and decrypt the input file. There are public keys and privite keys we need to use to do the encryption and decryption. There are three main functions in the program. One is called Keygen, which is used for generate the public and private key pair. The second one is called Encrypt, which is for encrypt files by using the public key. The last one is called Decrypt, which is used for decrypting by using the corresponding private key.
 
 # Building
 Building the program with:
