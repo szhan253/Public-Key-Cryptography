@@ -31,8 +31,7 @@ int main(int argc, char **argv) {
     FILE *infile = stdin;
     FILE *outfile = stdout;
     FILE *pbfile = stdin;
-    ; // = fopen("rsa.pub", "r+");
-
+    
     int opt = 0;
 
     bool test_h = false;
